@@ -1,0 +1,27 @@
+div{
+    width: 24%;
+    height: 600px;
+    background-color: rgb(219, 48, 235);
+float: left;
+border: rgb(158, 11, 11) 3px solid;
+border-radius: 30px;
+}
+img{
+    width: 320px;
+    height: 250px;
+
+
+}
+#c1{
+    width: 320px;
+    height: 280;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    text-decoration-color: rgb(206, 40, 40);
+    text-decoration: wavy;
+}
+body{
+    background-color: black;
+}
